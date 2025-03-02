@@ -1,0 +1,9 @@
+{
+	"name": "Debian",
+	"build": { "dockerfile": "Dockerfile" },
+	"customizations": {
+		"vscode": {
+		  "extensions": ["golang.go", "fill-labs.dependi", "usernamehw.errorlens", "anweber.vscode-httpyac"]
+		}
+	  }
+}
