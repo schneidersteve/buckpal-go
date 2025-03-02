@@ -41,3 +41,4 @@ Feature: Send Money
 
 # Task Examples
 
+> go run main
